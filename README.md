@@ -12,4 +12,4 @@ An interactive and device-responsive web platform built during my internship at 
 - **Custom UI Overhaul:** Modified the open-source structure to align with realistic interior agency requirements.
 - **Responsive Layouts:** Ensured pixel-perfect alignment across mobile, tablet, and desktop screens.
 - **Content Strategy:** Wrote and integrated all professional text, services description, and project case studies.
--
+
